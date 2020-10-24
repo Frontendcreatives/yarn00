@@ -1,0 +1,12 @@
+{
+  "name": "yarnModule",
+  "version": "1.0.0",
+  "description": "Yarn package with jquery as dependency",
+  "main": "index.js",
+  "repository": "https://github.com/Frontendcreatives/yarn",
+  "author": "Caroline Engan Johansen",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
